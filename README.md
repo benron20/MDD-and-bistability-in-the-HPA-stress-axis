@@ -12,3 +12,6 @@ S9_file - dynamic of brief stress reduction
 S10_file - dynamic of prolonged stress reduction
 S11_file - dynamic of short treatment
 S12_file - dynamic of prolonged treatment
+AnimA - animation of HPA-CNS hysteresis under the change of 'a' parameter of the CNS
+AnimB - animation of HPA-CNS hysteresis under the change of 'b' parameter of the CNS
+AnimU - animation of HPA-CNS hysteresis under the change of 'u' parameter, the stress input
